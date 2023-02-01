@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git
 .git
 .gitignore
@@ -12,4 +13,20 @@ app/*/*/_pycache_/
 app/*/*/*/_pycache_/
 .env/
 .venv/
+=======
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+app/_pycache_/
+app/*/_pycache_/
+app/*/*/_pycache_/
+app/*/*/*/_pycache_/
+.env/
+.venv/
+>>>>>>> origin
 venv/
